@@ -1,0 +1,11 @@
+body {
+    background-color: #7cd69a;
+}
+
+.FrontTab {
+    width: 50rem;
+    height: 15rem;
+    background-color: rgb(245, 245, 245);
+    padding: 2rem;
+    border-radius: 10%;
+}
